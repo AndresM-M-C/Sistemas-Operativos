@@ -1,7 +1,7 @@
 # Guia de Uso
 
 ================================================================
-      GUÍA DE PRUEBA FINAL: SEGURIDAD USB v3.0
+      GUÍA DE PRUEBA FINAL: SEGURIDAD USB 
 ================================================================
 
 --- PASO 1: ACTIVACIÓN ---
