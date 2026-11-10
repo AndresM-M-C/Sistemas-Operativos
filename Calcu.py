@@ -2,8 +2,6 @@ import streamlit as st
 import numpy as np
 import sympy as sp
 
-
-
 # Configuración adaptada a móviles (pantalla ajustada)
 st.set_page_config(page_title="Calculadora Numérica", layout="centered")
 
