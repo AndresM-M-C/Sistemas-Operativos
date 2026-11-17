@@ -4,6 +4,7 @@ class Nodo:
         self.izq = None
         self.der = None
         self.altura = 1
+        
 
 class ArbolAVL:
     # --- MÉTODOS DE IMPRESIÓN ---
