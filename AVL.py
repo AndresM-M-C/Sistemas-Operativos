@@ -4,8 +4,6 @@ class Nodo:
         self.izq = None
         self.der = None
         self.altura = 1
-        
-
 class ArbolAVL:
     # --- MÉTODOS DE IMPRESIÓN ---
     def imprimir_estructura(self, nodo, prefijo="", es_izq=None):
