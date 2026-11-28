@@ -3,7 +3,7 @@ class Nodo:
         self.valor = valor
         self.izq = None
         self.der = None
-        self.altura = 1
+        self.altura = 2
 class ArbolAVL:
     # --- MÉTODOS DE IMPRESIÓN ---
     def imprimir_estructura(self, nodo, prefijo="", es_izq=None):
